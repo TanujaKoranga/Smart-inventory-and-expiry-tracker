@@ -46,6 +46,9 @@ Manufacture and expiry date validation
 
 # Developed By
 Tanuja Koranga
+
 B.Tech Student
+
 Smart Inventory & Expiry Tracker Project
+
 
