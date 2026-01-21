@@ -6,16 +6,16 @@ Managing inventory manually can lead to expired products, stock mismanagement, a
 
 # Tech Stack
 
-# Frontend
+## Frontend
 HTML5
 CSS3
 JavaScript
 Fetch API
-# Backend
+## Backend
 Core Java
 Java HttpServer API
 JDBC
-# Database
+## Database
 MySQL
 
 # Features
@@ -29,20 +29,6 @@ Dashboard analytics
 Text-based inventory report generation
 Manufacture and expiry date validation
 
-# Project Structure
-
-SmartInventory/
-│
-├── src/
-│   ├── WebServer.java
-│   ├── DBConnection.java
-│   └── mysql-connector-j-9.5.0.jar
-│
-├── web/
-│   ├── index.html
-│   └── InventoryReport.txt
-│
-└── README.md
 
 # How to Run the Project
 
