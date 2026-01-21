@@ -21,13 +21,20 @@ MySQL
 # Features
 
 Add new products with validation
+
 Automatic category suggestion
+
 View all products
+
 Delete products
+
 Category-wise expiry alerts
+
 Dashboard analytics
+
 Text-based inventory report generation
-Manufacture and expiry date validation
+
+Manufacture and expiry date validation.
 
 
 # How to Run the Project
