@@ -8,14 +8,23 @@ Managing inventory manually can lead to expired products, stock mismanagement, a
 
 ### Frontend
 HTML5
+
 CSS3
+
 JavaScript
+
 Fetch API
+
 ### Backend
+
 Core Java
+
 Java HttpServer API
+
 JDBC
+
 ### Database
+
 MySQL
 
 # Features
