@@ -32,12 +32,17 @@ Manufacture and expiry date validation
 
 # How to Run the Project
 
-1.Install JDK and MySQL
-2.Create the database and products table
-3.Update database credentials in DBConnection.java
-4.Compile the project
-5.Run WebServer.java
-6.Open browser and go to: http://localhost:8080
+1.Install JDK and MySQL.
+
+2.Create the database and products table.
+
+3.Update database credentials in DBConnection.java.
+
+4.Compile the project.
+
+5.Run WebServer.java.
+
+6.Open browser and go to: http://localhost:8080.
 
 # Developed By
 Tanuja Koranga
